@@ -56,7 +56,7 @@ Cada muestra vale más si antes la estudiaste. Cuando termines, envía tu inform
 Necesitas [Node.js](https://nodejs.org) 20 o superior.
 
 ```bash
-git clone https://github.com/Feloguarin/perseverancia.git
+git clone https://github.com:NelsonMarquezRomero/Perseverance.git
 cd perseverancia
 npm install
 npm run dev
@@ -198,7 +198,7 @@ Each sample is worth more if you studied it first. When you're done, send your r
 You need [Node.js](https://nodejs.org) 20 or newer.
 
 ```bash
-git clone https://github.com/Feloguarin/perseverancia.git
+git clone https://github.com:NelsonMarquezRomero/Perseverance.git
 cd perseverancia
 npm install
 npm run dev
