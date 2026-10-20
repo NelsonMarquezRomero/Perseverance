@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><circle cx='8' cy='8' r='7' fill='%23c1440e'/></svg>" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500&family=Barlow+Condensed:wght@500;600&display=swap" rel="stylesheet" />
+    <title>Perseverancia · Marte</title>
+    <style>
+      html, body { margin: 0; height: 100%; overflow: hidden; background: #c98a5a; }
+      canvas { display: block; }
+      /* Estado de carga del rover: visible hasta que Percy está en el suelo. */
+      .load-status {
+        position: fixed; z-index: 7; left: 50%; top: 42%; transform: translateX(-50%);
+        max-width: min(90vw, 560px); margin: 0; padding: 10px 16px;
+        background: rgba(34, 16, 9, 0.8); border: 1px solid rgba(235, 154, 88, 0.22); border-radius: 8px;
+        color: #f3dcc4; font: 500 15px/1.4 'Barlow', system-ui, sans-serif; text-align: center;
+      }
+      .load-status[data-error='true'] { border-color: #e0663a; color: #ffd9c4; }
+    </style>
+  </head>
+  <body>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
