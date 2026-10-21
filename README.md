@@ -10,6 +10,8 @@
 
 **Maneja el rover Perseverance de la NASA por Marte, desde tu navegador.**
 
+🚀 **[Pruébalo en vivo: perseverance3d.vercel.app](https://perseverance3d.vercel.app/)**
+
 Es una simulación 3D hecha con [Three.js](https://threejs.org) que mezcla un juego con datos de verdad: el rover se mueve con la mecánica del Perseverance real, el control de misión muestra datos reales de la NASA, sus cámaras abren fotos reales que Percy tomó en Marte en los últimos días y tienes su misión de verdad: buscar señales de vida antigua.
 
 <p align="center">
@@ -53,7 +55,7 @@ Cada muestra vale más si antes la estudiaste. Cuando termines, envía tu inform
 
 ## Pruébalo en 2 minutos
 
-Necesitas [Node.js](https://nodejs.org) 20 o superior.
+Puedes jugarlo directamente en <https://perseverance3d.vercel.app/>, sin instalar nada. Si quieres replicarlo o modificarlo en tu computador, necesitas [Node.js](https://nodejs.org) 20 o superior.
 
 ```bash
 git clone https://github.com/NelsonMarquezRomero/Perseverance.git
@@ -158,6 +160,8 @@ Para contribuir:
 
 **Drive NASA's Perseverance rover across Mars, right in your browser.**
 
+🚀 **[Try it live: perseverance3d.vercel.app](https://perseverance3d.vercel.app/)**
+
 A 3D simulation built with [Three.js](https://threejs.org) that blends a game with real data: the rover moves with the mechanics of the real Perseverance, mission control shows real NASA data, its cameras open real photos Percy took on Mars in the last few days, and you get its real mission: searching for signs of ancient life.
 
 ## What you can do
@@ -195,7 +199,7 @@ Each sample is worth more if you studied it first. When you're done, send your r
 
 ## Try it in 2 minutes
 
-You need [Node.js](https://nodejs.org) 20 or newer.
+You can play it right away at <https://perseverance3d.vercel.app/>, no install needed. To replicate or modify it on your machine, you need [Node.js](https://nodejs.org) 20 or newer.
 
 ```bash
 git clone https://github.com/NelsonMarquezRomero/Perseverance.git
